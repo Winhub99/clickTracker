@@ -1,0 +1,11 @@
+.container2{
+    height: 100vh;
+}
+
+.point{
+    position: absolute;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    background: #193c3c;
+}
